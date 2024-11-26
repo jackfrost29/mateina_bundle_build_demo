@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Lemon Original",
+        "price": "42",
+        "colorup": "29-66-46",
+        "colordown": "85-137-111"
+    },
+    {
+        "id": "2",
+        "name": "Peach Passion",
+        "price": "42",
+        "colorup": "247-155-47",
+        "colordown": "236-181-97"
+    },
+    {
+        "id": "3",
+        "name": "Blueberry haskap",
+        "price": "42",
+        "colorup": "33-72-109",
+        "colordown": "93-129-156"
+    },
+    {
+        "id": "4",
+        "name": "Grapefruit Guava",
+        "price": "42",
+        "colorup": "227-122-104",
+        "colordown": "234-176-166"
+    },
+    {
+        "id": "5",
+        "name": "lemon zero",
+        "price": "42",
+        "colorup": "163-183-79",
+        "colordown": "71-114-91"
+    },
+    {
+        "id": "6",
+        "name": "Mango Key Lime",
+        "price": "42",
+        "colorup": "232-187-101",
+        "colordown": "250-226-147"
+    },
+    {
+        "id": "7",
+        "name": "Raspberry Yuzu",
+        "price": "42",
+        "colorup": "227-122-104",
+        "colordown": "243-179-169"
+    }
+]
