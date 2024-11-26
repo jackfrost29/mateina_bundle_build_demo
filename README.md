@@ -1,3 +1,5 @@
+# Mateina clone site for demonstration purpose
+
 The project is an attempt to clone the Canadian e-commerce website MATEINA, which sells Yerba Mate drinks (along with other accessories. The target of this project was to construct the "BUILD YOUR BUNDLE" section from scratch.
 
 Please view the website in this link (https://mateina.ca/collections/build-your-bundle)
